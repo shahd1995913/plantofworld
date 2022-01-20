@@ -8,3 +8,4 @@ numpy
 starlette==0.12.0
 uvicorn==0.11.7
 python-multipart==0.0.5
+# pytorch
